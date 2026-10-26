@@ -1,0 +1,2 @@
+# Only needed for --ai. The analyzer itself uses the standard library.
+anthropic
